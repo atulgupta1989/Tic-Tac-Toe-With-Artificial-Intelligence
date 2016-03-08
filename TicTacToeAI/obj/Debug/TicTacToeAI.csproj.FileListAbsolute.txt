@@ -1,0 +1,9 @@
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe.config
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.pdb
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Form1.resources
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Properties.Resources.resources
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.GenerateResource.Cache
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.exe
+c:\users\sony\documents\visual studio 2015\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.pdb
